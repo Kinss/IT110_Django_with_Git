@@ -1,4 +1,4 @@
-from django.hettp import Http404
+from django.http import Http404
 from django.shortcuts import render
 
 # Create your views here.
